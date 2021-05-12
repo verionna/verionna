@@ -1,5 +1,5 @@
 ### Hi there 👋
-https://user-images.githubusercontent.com/42081457/118034161-0a7a5400-b340-11eb-90d6-6d52c34379ba.jpg
+![IMG_20210110_170638706- (2) (2)](https://user-images.githubusercontent.com/42081457/118034161-0a7a5400-b340-11eb-90d6-6d52c34379ba.jpg)
 <!--
 **verionna/verionna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
