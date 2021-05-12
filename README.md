@@ -1,16 +1,13 @@
-### Hi there 👋
-![IMG_20210110_170638706- (2) (2)](https://user-images.githubusercontent.com/42081457/118034161-0a7a5400-b340-11eb-90d6-6d52c34379ba.jpg)
-<!--
-**verionna/verionna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Hola, bienvenido...**
 
-Here are some ideas to get you started:
+<div align="right">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Verionna Barona
+
+</div>
+
+<img width="400" height="auto" align="right" src="https://imgur.com/KtIUGqT.png">
+
+Soy estudiante y desarrollador Web.
+
+
