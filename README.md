@@ -6,7 +6,7 @@
 
 </div>
 
-<img width="400" height="auto" align="right" src="https://imgur.com/4ogBeeE.png">
+<img width="400" height="auto" align="right" src="https://imgur.com/p9y99hQ.png">
 
 Soy estudiante de Ciencias de la Computación en la UBA, Data Science Jr con conocimentos de Front-end.
 
