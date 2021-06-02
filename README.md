@@ -6,8 +6,8 @@
 
 </div>
 
-<img width="400" height="auto" align="right" src="https://imgur.com/lySWAM6.png">
+<img width="400" height="auto" align="right" src="https://imgur.com/4ogBeeE.png">
 
-Soy estudiante y desarrollador Web.
+Soy estudiante de Ciencias de la Computación en la UBA, Data Science Jr con conocimentos de Front-end.
 
 
